@@ -1,0 +1,18 @@
+h1 {
+    color: brown;
+    text-align: center;
+    border: 1px solid darkblue;
+    madding: 1rem 2rem
+}
+h2 {
+    color: purple;
+    text-align: center;
+}
+img {
+    max-width: 100%
+}
+p {
+    front-size: 2rem;
+    color: blue;
+    text-align: center;
+}
